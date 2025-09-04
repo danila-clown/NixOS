@@ -21,11 +21,13 @@
   grim
   slurp
   brightnessctl
+  home-manager
 
   # Hardware Support
   bluez
   bluez-tools
   blueman
   ntfs3g
+  zram-generator
   ];
 }

@@ -31,5 +31,7 @@
   discord
   obsidian
   vsc
+
+  alacritty
   ];
 } 
